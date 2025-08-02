@@ -1,0 +1,37 @@
+# .gitignore for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+.DS_Store
+.env
+.venv
+.idea/
+.vscode/
+
+# Ignore test and temp files
+tempCodeRunnerFile.py
+test_*.py
+create_*.py
+*_demo.py
+*_test.py
+launcher.py
+system_check.py
+
+# Ignore runtime data files
+*.log
+session_data.json
+analytics_data.json
+user_data/
+
+# Ignore OS generated files
+Thumbs.db
+
+# Ignore unnecessary documentation files
+THEME_SYSTEM_COMPLETE.md
+USAGE_GUIDE.md
+MUSIC_SYSTEM_README.md
+THEME_CUSTOMIZATION_GUIDE.py
