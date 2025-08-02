@@ -1,0 +1,35 @@
+{
+  "display": {
+    "default_width": 1400,
+    "default_height": 900,
+    "fps": 144,
+    "fullscreen": false
+  },
+  "colors": {
+    "background": [8, 12, 20],
+    "ui": [20, 25, 35],
+    "accent": [64, 224, 160],
+    "text": [220, 230, 240],
+    "target": [255, 70, 70],
+    "gold": [255, 215, 0]
+  },
+  "game_modes": [
+    {
+      "name": "Classic",
+      "duration": 60,
+      "target_size": 25,
+      "spawn_rate": 0.5,
+      "max_targets": 1,
+      "target_lifetime": 3.0,
+      "description": "Traditional aim training",
+      "difficulty": "Beginner"
+    }
+  ],
+  "default_settings": {
+    "crosshair_style": 0,
+    "sound_enabled": true,
+    "particles_enabled": true,
+    "show_trail": true,
+    "mouse_sensitivity": 1.0
+  }
+}

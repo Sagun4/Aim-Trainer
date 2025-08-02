@@ -1,0 +1,8 @@
+# Elite Aim Trainer Pro Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core game engine
+pygame>=2.1.0
+
+# Python version requirement (informational)
+# Requires Python 3.7+

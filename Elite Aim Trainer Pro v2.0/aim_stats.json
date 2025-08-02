@@ -1,0 +1,54 @@
+{
+  "games_played": 85,
+  "total_shots": 2233,
+  "total_hits": 1697,
+  "best_accuracy": 100.0,
+  "best_targets_per_second": 1.7997889527797837,
+  "best_reaction_time": 0.5650076866149902,
+  "total_playtime": 1398.1674075126648,
+  "highest_score": 128,
+  "longest_streak": 39,
+  "mode_records": {
+    "Classic": {
+      "best_score": 119,
+      "best_accuracy": 100.0,
+      "games_played": 13
+    },
+    "Chaos Mode": {
+      "best_score": 101,
+      "best_accuracy": 83.33333333333334,
+      "games_played": 15
+    },
+    "Sniper": {
+      "best_score": 38,
+      "best_accuracy": 91.8918918918919,
+      "games_played": 2
+    },
+    "Precision": {
+      "best_score": 124,
+      "best_accuracy": 100.0,
+      "games_played": 26
+    },
+    "Flick Master": {
+      "best_score": 12,
+      "best_accuracy": 100.0,
+      "games_played": 8
+    },
+    "Speed Blitz": {
+      "best_score": 94,
+      "best_accuracy": 100.0,
+      "games_played": 12
+    },
+    "Reflexes": {
+      "best_score": 112,
+      "best_accuracy": 89.1891891891892,
+      "games_played": 4
+    },
+    "Multi-Track": {
+      "best_score": 128,
+      "best_accuracy": 100.0,
+      "games_played": 5
+    }
+  },
+  "daily_stats": {}
+}

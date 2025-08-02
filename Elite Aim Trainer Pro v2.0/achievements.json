@@ -1,0 +1,42 @@
+{
+  "First Steps": {
+    "unlocked": true,
+    "unlock_time": 1754110771.023398
+  },
+  "Sharpshooter": {
+    "unlocked": true,
+    "unlock_time": 1754116488.0724928
+  },
+  "Speed Demon": {
+    "unlocked": false,
+    "unlock_time": null
+  },
+  "Marathon Runner": {
+    "unlocked": false,
+    "unlock_time": null
+  },
+  "Perfectionist": {
+    "unlocked": true,
+    "unlock_time": 1754116488.0724962
+  },
+  "Lightning Fast": {
+    "unlocked": false,
+    "unlock_time": null
+  },
+  "Streak Master": {
+    "unlocked": true,
+    "unlock_time": 1754110771.0234067
+  },
+  "High Scorer": {
+    "unlocked": false,
+    "unlock_time": null
+  },
+  "Dedicated": {
+    "unlocked": true,
+    "unlock_time": 1754125749.4027812
+  },
+  "Elite": {
+    "unlocked": false,
+    "unlock_time": null
+  }
+}
